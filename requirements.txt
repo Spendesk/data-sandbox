@@ -1,0 +1,14 @@
+jupyterlab==1.0.0
+numpy==1.19.2
+pandas==1.1.2
+
+# scikit-learn
+# setuptools
+# category-encoders
+# matplotlib
+# featuretools
+# catboost
+# datetime
+# networkx
+# xgboost
+# streamlit
