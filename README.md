@@ -1,4 +1,4 @@
-# Data Science project skeleton
+# Data Sandbox - Data Science project skeleton
 
 ## Quickstart
 ```bash
